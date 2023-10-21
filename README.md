@@ -1,2 +1,2 @@
 # Fairytale-Fables-Bugs
-Bugs of Fairytale Fables
+Please report bugs here.
